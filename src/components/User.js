@@ -1,5 +1,4 @@
 import { useState } from "react";
-import sign from "../images/deals/firstOrder.webp";
 import "../style/user.css";
 import { useNavigate } from "react-router-dom";
 export default function User(props) {

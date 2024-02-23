@@ -20,9 +20,6 @@ export default function User(props) {
   return (
     <div className="userPage d-flex justify-content-center">
       <div className="loginPage shadow-sm mt-4 pb-5">
-        <div className="formHead">
-          <img src={sign} alt="..."></img>
-        </div>
         <div className="baseForm">
           <span>
             <b>Login</b> or <b>Signup</b>
